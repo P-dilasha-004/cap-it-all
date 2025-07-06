@@ -65,7 +65,8 @@ Here are some ideas for future versions of the project:
 
 ## License
 
-This project is distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
